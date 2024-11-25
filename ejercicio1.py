@@ -1,1 +1,0 @@
-print("Fundamentos de programación")
