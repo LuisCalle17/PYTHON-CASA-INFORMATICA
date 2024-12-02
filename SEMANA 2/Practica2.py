@@ -4,10 +4,10 @@ al usuario y genere su tabla de multiplicar del 1 al 10. usando un bucle
 
 """
 
-numero = int(input("Ingrese numero a multiplicar: "))
+# numero = int(input("Ingrese numero a multiplicar: "))
 
-for i in range(1,11):
-    print(f"{numero} x {i} = {i * numero}")
+# for i in range(1,11):
+#     print(f"{numero} x {i} = {i * numero}")
 
 
 '''
@@ -15,11 +15,6 @@ for i in range(1,11):
 Crea un programa que tome una lista de números y calcule la suma de todos sus elementos.
 
 '''
-
-
-
-
-
 
 
 
